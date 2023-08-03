@@ -1,0 +1,31 @@
+01. Introdução
+
+------------------------------------
+02. Valores de retorno
+
+------------------------------------
+03. Chamar a função VS. Referenciar a função
+
+Em JavaScript, funções são objetos, o que significa que podem ser atribuídas à constantes e variáveis como se fossem um objeto qualquer.
+
+É importante entender a diferença entre chamar uma função e referenciar uma função.
+
+Se você tentar adicionar parênteses em um valor que não é uma função, JavaScript vai gerar um error. Por exemplo, "ops"() vai resultar no erro TypeError: "ops" is not a function ("ops" não é uma função)
+
+------------------------------------
+04. Argumentos da função
+
+------------------------------------
+05. Funções como sendo propriedades de objetos
+
+------------------------------------
+06. A palavra-chave this
+
+------------------------------------
+07. Expressões de funções e funções anônimas
+
+------------------------------------
+08. Notação de seta
+
+------------------------------------
+09. Métodos call, apply, e bind
